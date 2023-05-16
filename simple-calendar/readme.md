@@ -1,0 +1,1 @@
+Challenge proposed by MDN WEB DOCS to make a simple calendar using conditionals, i'm using sass for styling, just for practice, i'm also using the BEM convention for naming the classes, for the scripts i will use camel case
