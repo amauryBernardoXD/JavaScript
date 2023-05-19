@@ -1,0 +1,42 @@
+@media (min-width: 768px){
+    .calendar-model--h1{
+        width: 50rem;
+        text-align: center;
+    }
+    .calendar-days{
+        display: grid;
+        grid-template-columns: repeat(4, 5fr);
+    }
+}
+@media (min-width: 992px){
+    .calendar-model--h1{
+        width: 60rem;
+        text-align: center;
+    }
+    .calendar-days{
+        display: grid;
+        grid-template-columns: repeat(4, 5fr);
+    }
+}
+
+@media (min-width: 1200px){
+    .calendar-model--h1{
+        width: 70rem;
+        text-align: center;
+    }
+    .calendar-days{
+        display: grid;
+        grid-template-columns: repeat(4, 5fr);
+    }
+}
+
+@media (min-width: 1400px){
+    .calendar-model--h1{
+        width: 90rem;
+        text-align: center;
+    }
+    .calendar-days{
+        display: grid;
+        grid-template-columns: repeat(4, 5fr);
+    }
+}
