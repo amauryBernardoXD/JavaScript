@@ -1,6 +1,6 @@
 Write a program to calculate the cost of a trip.
 
-You will have 5 variables. Being them:
+You will have 4 variables. Being them:
  1 - Price of ethanol;
  2 - Price of gasoline;
  3 - The type of fuel in your car;

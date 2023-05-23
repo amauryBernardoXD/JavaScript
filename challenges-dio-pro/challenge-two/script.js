@@ -1,6 +1,5 @@
 const priceEthanol = 3.22;
 const priceGasoline = 5.35;
-const fuelType  = 'common';
 const autonomy  = 10;
 const distanceKm = 350;
 
