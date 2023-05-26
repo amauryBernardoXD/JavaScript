@@ -8,3 +8,4 @@ You will have 4 variables. Being them:
  5 - Distance in KM of the trip;
 
 Print on the console the amount that will be spent to make this trip.
+
