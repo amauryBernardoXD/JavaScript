@@ -1,4 +1,4 @@
 # JavaScript
 
-Just testing github desktop
+Just practicing JavaScript =)
  
