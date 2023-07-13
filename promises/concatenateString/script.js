@@ -14,3 +14,5 @@ concatStringsDelay('Amaury', 'Bernardo')
         console.log(result)
     }, 3000)
 })
+
+set
